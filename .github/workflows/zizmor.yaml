@@ -1,4 +1,4 @@
-name: Zizmor
+name: GitHub Actions Security Analysis
 
 on: # zizmor: ignore[concurrency-limits]
   workflow_call:
