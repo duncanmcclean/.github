@@ -6,8 +6,8 @@ on:
 permissions: {}
 
 jobs:
-  lint-code-styling:
-    name: Lint code styling
+  pint:
+    name: Lint
     runs-on: ubuntu-latest
     permissions:
       contents: read
