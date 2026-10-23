@@ -1,4 +1,4 @@
-name: Lint code style issues
+name: Code Style
 
 on:
   workflow_call:
